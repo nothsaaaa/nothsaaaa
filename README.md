@@ -1,4 +1,4 @@
 ### sup 
 - im nothsa
 - email me at [nothsa@noth.page](mailto:nothsa@noth.page) (dont, email servers have been down for months and have no chance of being revived)
-- check out my website "blackspace" at https://noth.page:28370/
+- check out my website "blackspace" at https://blackspacee.neocities.org

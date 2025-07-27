@@ -1,7 +1,11 @@
-```
-my name is ashlyn asf
-- https://blackspace.lol/
+my name is ashlyn asf  
+almost everything i run is on my website
 
-- information technology / backend developer
-- artificial intelligence enthusiast (not just generative ai)
-```
+- [Blackspace](https://blackspace.lol/)
+- [Blackspace Radio](https://blackspace.nekoweb.org/radio)
+
+i only really open source my code if its cool or runs on any computer  
+
+- information technology / fullstack developer
+
+contact me on discord: `@nothsaaaa`

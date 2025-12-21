@@ -10,4 +10,4 @@ i only really open source my code if its cool or runs on any computer
 
 - information technology / fullstack developer
 
-contact me on discord: `@nothsaaaa`
+contact me on discord: `@nylhsaaaa`

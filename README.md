@@ -1,13 +1,6 @@
-# ashlyn 🎶
-
-my name is ashlyn asf  
-almost everything i run is on my website
+### This users voice mailbox has not been setup yet. Please try your call again later. Goodbye.
 
 - [Blackspace](https://blackspace.lol/)
-- [Blackspace Radio](https://blackspace.lol/radio)
 
-i only really open source my code if its cool or runs on any computer  
-
-- information technology / fullstack developer
-
+information technology / fullstack developer  
 contact me on discord: `@nylhsaaaa`

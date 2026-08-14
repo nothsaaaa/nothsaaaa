@@ -1,0 +1,29 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.12.0
+        with:
+          USERNAME: "nothsaaaa"
+          THEME: "rose_pine"
+          ANIMATION: "stagger"
+          BRANCH_NAME: "main"
+          AUTO_PUSH: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
